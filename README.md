@@ -1,3 +1,4 @@
 # Larry-the-Snake
 The game snake in Java
-https://github.com/JanneSickert/Larry-the-Snake/blob/main/Pictures/Start/Sp1.jpg
+
+<p align="center"><img src="/Pictures/Start/Sp1.jpg" alt="Logo"/></p>
